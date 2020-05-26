@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "216033598684",
+    "firebase_url": "https://coffee-crew-338db.firebaseio.com",
+    "project_id": "coffee-crew-338db",
+    "storage_bucket": "coffee-crew-338db.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:216033598684:android:f9f9dc309672f77462e819",
+        "android_client_info": {
+          "package_name": "hafizz.coffeecrew"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "216033598684-ihr00c6qi9l4s1dg3j6162sta0edl3j1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEfh3b4Tbdq6GrAWgluxj_QqspedwccAg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "216033598684-ihr00c6qi9l4s1dg3j6162sta0edl3j1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
